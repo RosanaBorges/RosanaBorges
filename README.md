@@ -2,7 +2,6 @@
 
 
 - 🌱 Estou estudando JavaScript e Reactjs
-- 👯 Estou a procura de projetos Open source para participar
 - 🤔 Estou em busca da minha primeira oportunidade de trabalho na área de TI
 
 
