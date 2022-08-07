@@ -1,8 +1,8 @@
 ### Oi, Sou Rosana Borges!!!
 
 
-- 🌱 Estou estudando JavaScript e Reactjs
-- 🤔 Estou em busca da minha primeira oportunidade de trabalho na área de TI
+- 🌱 Estou cursando primeiro ano em Engenharia da Computação pela UNIVESP e também estou focada em Java no momento.
+- 🤔 Estou em busca da minha primeira oportunidade de trabalho/estágio na área de TI
 
 
 <div align="center">
