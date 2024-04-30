@@ -1,6 +1,6 @@
 ### Oi, Sou Rosana Borges!!!
 
-
+Sou desenvolvedora java júnior, tenho mais de um ano de experiência com desenvolvimento de aplicações web.
 
 <div align="center">
   <a href="https://https://github.com/RosanaBorges">
