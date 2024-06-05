@@ -2,6 +2,9 @@
 
 Sou desenvolvedora java júnior, tenho mais de um ano de experiência com desenvolvimento de aplicações web.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosanaBorges)](https://github.com/USERNAME/github-readme-stats)
+
+
 
   
  <div style="display: inline_block"><br>
